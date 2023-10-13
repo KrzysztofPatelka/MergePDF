@@ -1,0 +1,13 @@
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\bin\Debug\MergePDF.exe.config
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\bin\Debug\MergePDF.exe
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\bin\Debug\MergePDF.pdb
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\bin\Debug\MetroFramework.dll
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\bin\Debug\PdfSharp.dll
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.csproj.AssemblyReference.cache
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.Properties.Resources.resources
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.csproj.GenerateResource.cache
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.csproj.CopyComplete
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.exe
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.pdb
+C:\Users\krzysztof.patelka\source\repos\MergePDF\MergePDF\obj\Debug\MergePDF.MainWindow.resources
